@@ -3,3 +3,5 @@ scikit-learn
 surprise
 pandas 
 numpy 
+list
+--upgrade pandas scipy
